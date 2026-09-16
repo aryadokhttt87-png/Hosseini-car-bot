@@ -12,7 +12,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "خودروهای داخلی و خارجی\n"
         "حواله و خودروهای صفر و کم‌کارکرد\n\n"
         "برای مشاهده آگهی‌ها وارد کانال شوید:\n"
-        f"{CHANNEL}"
+        f"{https://t.me/hosseinii12car}"
     )
 
 app = Application.builder().token(TOKEN).build()
